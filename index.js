@@ -6,7 +6,7 @@ const replaceTemplate = require('./modules/replaceTemplate');
 const { getUnpackedSettings } = require('http2');
 
 // Read data from file
-// Template
+// Template read json file
 const tempLoan = fs.readFileSync(
    `${__dirname}/data/data.json`,
    'utf-8'
