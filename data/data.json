@@ -1,0 +1,57 @@
+[
+    {
+        "id": 0,
+        "customerName": "Sarah Miller",
+        "phoneNumber": "954-123-7890",
+        "address": "123, Main St, Coral Springs, FL 33067",
+        "loanAmount": 24000.00,
+        "interest": 1.75,
+        "loanTermYears": 10,
+        "loanType": "Auto",
+        "description": "Auto loan for Sarah"
+    },
+    {
+        "id": 1,
+        "customerName": "Raj Kumar",
+        "phoneNumber": "201-562-7998",
+        "address": "13456, Park Ave, Cranston, MA 02910",
+        "loanAmount": 150000.00,
+        "interest": 3.75,
+        "loanTermYears": 30,
+        "loanType": "Mortgage",
+        "description": "Mortgage loan for Raj"
+    },
+    {
+        "id": 2,
+        "customerName": "Sam Smith",
+        "phoneNumber": "831-678-9987",
+        "address": "72, Coldstone Dr, Aspen, CO 54628",
+        "loanAmount": 75500.00,
+        "interest": 2.50,
+        "loanTermYears": 5,
+        "loanType": "Auto",
+        "description": "Auto loan for Sam"
+    },
+    {
+        "id": 3,
+        "customerName": "Kelly Clarkson",
+        "phoneNumber": "354-575-2738",
+        "address": "419, Apt 2B, Parkside Dr, Deerfield, FL 64737",
+        "loanAmount": 5000.00,
+        "interest": 2.00,
+        "loanTermYears": 7,
+        "loanType": "Personal",
+        "description": "Personal loan for Kelly"
+    },
+    {
+        "id": 4,
+        "customerName": "William McKinsley",
+        "phoneNumber": "787-998-2233",
+        "address": "6789, Newton St, Mountain View, CA 98989",
+        "loanAmount": 50000.00,
+        "interest": 1.50,
+        "loanTermYears": 15,
+        "loanType": "Home",
+        "description": "Home loan for William"
+    }  
+]
